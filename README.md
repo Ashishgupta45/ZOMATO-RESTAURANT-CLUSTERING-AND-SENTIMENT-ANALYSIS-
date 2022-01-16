@@ -1,0 +1,2 @@
+# ZOMATO-RESTAURANT-CLUSTERING-AND-SENTIMENT-ANALYSIS-
+In this project we are clustering our data in k number of cluster. to find a perfect number of cluster we are using different algorithms like silhouette score, Elbow method etc. In sentiment analysis we are categorizing our rating into three types bad, average and good. Then using sklearn pipeline module implementing ordinal logistic regression.
