@@ -16,7 +16,7 @@ In this project we are clustering our data in k number of cluster. to find a per
 
 ## Dataset information:
 
-# Zomato Restaurant names and Metadata:
+### Zomato Restaurant names and Metadata:
 Use this dataset for clustering part
 
 * Name : Name of Restaurants
@@ -33,7 +33,7 @@ Use this dataset for clustering part
 
 --------------------------------------------------------------------------------------------
 
-# Zomato Restaurant reviews:
+### Zomato Restaurant reviews:
 Merge this dataset with Names and Matadata and then use for sentiment analysis part
 
 * Restaurant : Name of the Restaurant
